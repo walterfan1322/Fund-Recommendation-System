@@ -1,0 +1,12 @@
+# 不要把虛擬環境傳到 Git
+.venv/
+Fund Recommendation System/.venv/
+Fund-Recommendation-System/.venv/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# IDE
+.vscode/
