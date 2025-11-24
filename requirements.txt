@@ -1,0 +1,13 @@
+streamlit
+yfinance
+pandas
+numpy
+plotly
+scipy
+requests
+matplotlib
+seaborn
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+--find-links https://download.pytorch.org/whl/cpu/torch_stable.html
